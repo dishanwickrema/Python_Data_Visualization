@@ -25,9 +25,13 @@ We considered following pull factors for analysis of this project, and we retriv
   - Unemployment
   - Employment
 
-## Number of immigrants
+## Analysis 1 - Number of immigrants
   - based on a 10 year data set from 2008 - 2017, clearly shows a significant increase of immigrants during 2009 - 2011, and then again from 2015.
   - it is intersting to know the year **2011** had the lowest number of immigrants
 
 ![No of Immigrants](/Screenshots/noofimmigrants.png)
 
+## Analysis 2 - Top 3 Provinces with most Immigrants
+  - It proved to be Alberta had most immigrants in Canada followed by Ontratio, and British Columbia
+  
+  ![Heatmap](/Screenshots/heatmap.png)
