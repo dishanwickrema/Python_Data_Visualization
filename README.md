@@ -8,3 +8,8 @@ One of the main targets of this project was to retrieve data through an Applicat
 
 Code snippet of the recursive algorithm
 
+![Recursive Algorithm](/Screenshots/recursivealogorithm.png)
+
+This algorithm generates a dictionaroy for each response from  World Bank data API call. Then it is just a matter of converting each dictionary to pandas data frame.
+
+![Output Table](/Screenshots/table.png)
