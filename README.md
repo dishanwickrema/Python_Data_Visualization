@@ -35,3 +35,13 @@ We considered following pull factors for analysis of this project, and we retriv
   - It proved to be Alberta had most immigrants in Canada followed by Ontratio, and British Columbia
   
   ![Heatmap](/Screenshots/heatmap.png)
+
+## Analysis 3 - Top 3 Countries with most migration to Canada
+  - China
+  - India
+  - Philippines
+  
+  ![top3countries](/Screenshots/top3countries.png)
+  
+## Analysis 4 - Population Demographics
+  ![PopulationDemographics](/Screenshots/PopulationDemographics.png)
