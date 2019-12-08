@@ -59,10 +59,19 @@ We considered following pull factors for analysis of this project, and we retriv
   - pvalue 3.578779945786309e-11
   
   ![GDP-Boxplot](/Screenshots/GDP-Boxplot.png)
-  
-  
+    
   - China shows a consistent increase in GDP between 2009 to 2018
   - Canada GDP is not only significantly lower than China it is even lower than India between 2015 to 2018
   - It explains why we reject null hypothesis as the GDP per year is significantly differenent
-  ![gdp4countries](/Screenshots/gdp4countries.png)
+
+## Analysis 7 - Unemployment
+  - Canada tends to have a higher unemployment rate in comparison to the top 3 immigrant countries
+  - Primary reason was GFC in 2009 & secondly China and India have roughly 20 times bigger economy which created more opportunities resulting less Unemployment rate
+  ![unemployment4countries](/Screenshots/unemployment4countries.png)
+  
+## Analysis 8 - Employment
+  - China and India dominated the Total population stats in Billions, in Contrast Canada still stuck below 40 million even at 2018
+  - Having total Population below 40 Million was literally a “Blessing in disguise” for Canada
+  - Employment to population ratio is around 62.5% whereas India is just around 50% mark 
+![employment](/Screenshots/employment.png)
   
