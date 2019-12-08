@@ -57,7 +57,9 @@ We considered following pull factors for analysis of this project, and we retriv
   ** Boxplot grouped by country (GDP %)**
   - The p value from the anova test rejects the null hypothesis. All the 4 countries do not have a similar GDP as pvalue is greater than .10. Therefore the average GDP rise is not the same. In fact there is a great difference amonth the GDP values of the 4 countries.
   - pvalue 3.578779945786309e-11
+  
   ![GDP-Boxplot](/Screenshots/GDP-Boxplot.png)
+  
   
   - China shows a consistent increase in GDP between 2009 to 2018
   - Canada GDP is not only significantly lower than China it is even lower than India between 2015 to 2018
