@@ -75,3 +75,13 @@ We considered following pull factors for analysis of this project, and we retriv
   - Employment to population ratio is around 62.5% whereas India is just around 50% mark 
 ![employment](/Screenshots/employment.png)
   
+# Conclusion
+  - Aging population has been increasing fast while young people are not increasing at the same pace. This might create an imbalance in the retirement pension. 
+  - Temporary worker and Permanent Resident fulfil this GAP in retirement pension.
+  - Some reasons that Canada is attractive:
+    - GDP has been increasing
+    - Low rate of unemployment and an increased rate of employment
+    - CPI shows  that is the inflation is under control 
+    - Big continent but  with small number of people
+
+**Initiation of this project led me creating the resursive alorithm that can travse  python dictionaries to create data frames automatically.**
